@@ -1,0 +1,41 @@
+.myDiv {
+    text-align: center;
+  }
+  table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body{
+    background-color: rgb(95, 78, 78)
+  }
+  .direita{
+    text-align: right;
+    
+  }
+  body{
+    font-family: monospace;
+    font-size:x-large;
+  }
+  
+  .button{
+  background-color: rgba(82, 34, 34, 0.486);
+  font-size: x-large;
+  color: rgb(223, 153, 153);
+  border-color: rgba(82, 34, 34, 0.486);
+  outline-style: outset;
+  text-align: right;
+  text-align-last: right;
+  margin-top: 1em;
+  
+  
+  }
+  
+  table{
+  color: black
+  
+  }
+  .center{
+  align-items: center;
+  text-align: center;
+  }
+  
